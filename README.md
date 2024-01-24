@@ -1,6 +1,6 @@
 # A Simple App
 
-This project is a simple web application created for learning purposes. The primary goal is to explore and gain hands-on experience with various technologies, including Python, Flask, Docker, C#, HTML, CSS, and JavaScript.
+This project is a simple web application created for learning purposes. The primary goal is to explore and gain experience with various programming basics, including Python, Flask, Docker, C#, HTML, CSS, and JavaScript.
 
 ## Project Overview
 
